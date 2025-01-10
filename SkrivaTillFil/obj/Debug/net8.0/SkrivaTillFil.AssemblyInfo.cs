@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkrivaTillFil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cedf4ace7c9bd458b564214289a865d067460c66")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkrivaTillFil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkrivaTillFil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

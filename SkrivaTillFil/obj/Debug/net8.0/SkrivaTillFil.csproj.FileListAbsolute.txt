@@ -12,3 +12,4 @@ C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net
 C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.pdb
 C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.genruntimeconfig.cache
 C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\ref\SkrivaTillFil.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.sourcelink.json
