@@ -1,0 +1,14 @@
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\bin\Debug\net8.0\SkrivaTillFil.exe
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\bin\Debug\net8.0\SkrivaTillFil.deps.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\bin\Debug\net8.0\SkrivaTillFil.runtimeconfig.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\bin\Debug\net8.0\SkrivaTillFil.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\bin\Debug\net8.0\SkrivaTillFil.pdb
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.AssemblyInfoInputs.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.AssemblyInfo.cs
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.csproj.CoreCompileInputs.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\refint\SkrivaTillFil.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.pdb
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\SkrivaTillFil.genruntimeconfig.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\skriv till fil\SkrivaTillFil\obj\Debug\net8.0\ref\SkrivaTillFil.dll
